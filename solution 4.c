@@ -29,4 +29,4 @@ else if(tot>=50)
 else
     printf("GRADE = F ");
 return 0;
-}nnnnnnrn
+}
