@@ -2,7 +2,7 @@
 
 int main()
 {
-    int r,d,c,a;
+    float r,d,c,a;
     printf("Enter radius of circle:");
     scanf("%f", &r);
     d=2*r;
